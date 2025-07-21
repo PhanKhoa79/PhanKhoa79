@@ -61,15 +61,8 @@ I am on the way to become a FullStack Developer. I am not good but I will always
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanKhoa79&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PhanKhoa79&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PhanKhoa79&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-</div>
-
